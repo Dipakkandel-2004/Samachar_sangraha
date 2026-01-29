@@ -1,7 +1,5 @@
-streamlit
-pandas
-psycopg2-binary
-feedparser
-csv
-os
-pathlib
+streamlit==1.27.0
+pandas==2.2.1
+psycopg2-binary==2.9.9
+feedparser==6.0.10
+numpy==1.26.2
